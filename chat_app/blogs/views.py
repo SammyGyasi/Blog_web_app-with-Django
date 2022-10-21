@@ -9,14 +9,14 @@ posts = [
   'author':'Samuel',
     'title':'Blog-Post 1',
     'content':'First Post Content',
-    'date_posted':'October 20,2018'
+    'date_posted':'October 20,2022'
     },
 
      {
     'author':'Kobina',
     'title':'Blog-Post 2',
     'content':'Second Post Content',
-    'date_posted':'October 21,2018'
+    'date_posted':'October 21,2022'
     }
   
 ]
